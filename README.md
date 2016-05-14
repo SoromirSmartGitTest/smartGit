@@ -1,0 +1,2 @@
+# smartGit
+use smart-git
